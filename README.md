@@ -14,26 +14,12 @@ Bu proje, **Anthropic Claude Ekosistemi**'nin (Skill'ler, Model Context Protocol
 
 ---
 
-## 📊 İş Akışı Şeması
-
-![Workflow Diyagramı](./workflows/mermaid-diagram.png)
-
----
-
-## 🧪 Canlı Test Çıktıları
-
-* **Düz İstem (Zero-Shot):** ![Zero-Shot](./prompts/Düz%20İstem%20(Zero-Shot%20Direct%20Prompting)%20.png)
-* **Örnekli İstem (Few-Shot):** ![Few-Shot](./prompts/Örnekli%20İstem%20(Few-Shot%20Prompting)%20.png)
-* **XML + CoT (Adım Adım Düşünme):**  
-  ![XML-CoT 1](./prompts/1Structured%20XML%20Etiketleme%20ve%20Chain-of-Thought%20(CoT)%20.png)  
-  ![XML-CoT 2](./prompts/2Structured%20XML%20Etiketleme%20ve%20Chain-of-Thought%20(CoT)%20.png)
-
----
-
-## 📄 Belgeler
+## 📄 Proje Dosyaları
 
 * 📑 [Teknik Rapor (PDF)](./docs/Claude_Ekosistemi_Teknik_Raporu.pdf)
 * 📊 [Sunum Slaytları (PPTX)](./docs/Claude%20Ekosistemi.pptx)
+* 🖼️ [İş Akışı Şeması (Mermaid)](./workflows/mermaid-diagram.png)
+* 🧪 [Canlı Prompt Test Ekran Çıktıları](./prompts/)
 
 ---
 **Hazırlayan:** Yeliz Nur Kılıç | **Görev:** DDYO Staj Araştırma Görevi (Görev 07)
